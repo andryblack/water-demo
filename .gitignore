@@ -1,0 +1,8 @@
+.DS_Store
+bin
+build
+lib
+projects/osx/*.xcodeproj
+projects/ios/*.xcodeproj
+projects/ios/*.xcworkspace
+projects/osx/*.xcworkspace
